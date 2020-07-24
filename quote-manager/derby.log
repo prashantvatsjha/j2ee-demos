@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jul 17 11:21:33 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (Unversioned directory): instance a816c00e-0173-5b53-edb6-0000007a38d0 
+on database directory C:\Users\PrashantKumarjhaJha\AppData\Local\Temp\gfembed4499828502486701519tmp\lib\databases\ejbtimer with class loader ClassRealm[plugin>org.glassfish.embedded:maven-embedded-glassfish-plugin:3.1.2.2, parent: sun.misc.Launcher$AppClassLoader@25154f] 
+Loaded from file:/C:/Users/PrashantKumarjhaJha/.m2/repository/org/glassfish/main/extras/glassfish-embedded-all/5.0-b24/glassfish-embedded-all-5.0-b24.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=C:\Users\PrashantKumarjhaJha\Documents\study\Java-EE-8-High-Performance-master\Chapter01\quote-manager
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
